@@ -1,0 +1,63 @@
+.myDiv {
+  background-color: Beige
+}
+/* Hello I am a comment. */
+p {}
+#addie1 {
+  	text-align: center;
+    color: black;
+  font-size: 30px;
+}
+#addie2 {
+  	text-align: center;
+    color: black;
+  font-size: 30px;
+}
+#addie3 {
+  	text-align: center;
+    color: black;
+  font-size: 30px;
+}
+#addie4 {
+  	text-align: center;
+  	color: black;
+  font-size: 30px;
+}
+#addie5 {
+  	text-align: center;
+  	color: black;
+  font-size: 30px;
+}
+#addie6 {
+  	text-align: center;
+  	color: red;
+    font-size: 50px;
+}
+#title {
+  	text-align: center;
+  	color: pink;
+    font-size: 100px;
+}
+
+#jokebooks {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+#jokebooks td, #jokebooks th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#jokebooks tr:nth-child(even){background-color: #FFEBCD;}
+
+#jokebooks tr:hover {background-color: #ddd;}
+
+#jokebooks th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #A52A2A;
+  color: white;
+}
